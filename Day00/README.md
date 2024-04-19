@@ -1,6 +1,6 @@
 # Java Bootcamp Day00
 
-### Management structures and and arrays
+### Management structures and arrays
 
 Basics of solving both trivial and more challenging business tasks using basic Java language constructs
 
