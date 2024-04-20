@@ -2,4 +2,4 @@
 The goal of this intensive course is to covering topics from Java Core (including **Reflection API**, **Collections**, **JDBC** and **Multi-Threading**) to  **Spring** & **Sockets**.
 ## Days (individual projects)
 - [Day 00: Structures and arrays](https://github.com/IldarGreen/JavaCamp/tree/main/Day00)
-
+- [Day 01: OOP and Colections](https://github.com/IldarGreen/JavaCamp/tree/main/Day01)
