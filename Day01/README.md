@@ -1,4 +1,4 @@
-# Java Bootcamp Day00
+# Java Bootcamp Day01
 
 ### OOP/Collections
 
