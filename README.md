@@ -3,4 +3,3 @@ The goal of this intensive course is to covering topics from Java Core (includin
 ## Days (individual projects)
 - [Day 00: Structures and arrays](https://github.com/IldarGreen/JavaCamp/tree/main/Day00)
 - [Day 01: OOP and Colections](https://github.com/IldarGreen/JavaCamp/tree/main/Day01)
-
