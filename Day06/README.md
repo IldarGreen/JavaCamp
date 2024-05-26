@@ -1,4 +1,4 @@
-# Java Bootcamp  Day06
+# Java Bootcamp Day06
 
 ### JUnit
 
