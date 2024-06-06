@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS chatrooms;
+
+CREATE TABLE IF NOT EXISTS chatrooms(
+--	id BIGINT PRIMARY KEY GENERATED ALWAYS AS IDENTITY, --С 10 версии postgresql
+    id BIGSERIAL PRIMARY KEY,
+	creator_id BIGINT,
+	chatroomname VARCHAR(50) NOT NULL
+);

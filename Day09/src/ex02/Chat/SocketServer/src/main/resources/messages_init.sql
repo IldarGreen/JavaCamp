@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS messages;
+
+CREATE TABLE IF NOT EXISTS messages(
+--	id BIGINT PRIMARY KEY GENERATED ALWAYS AS IDENTITY, --С 10 версии postgresql
+    id BIGSERIAL PRIMARY KEY,
+	sender_id BIGINT,
+	chatroom_id BIGINT,
+	message_text TEXT NOT NULL,
+	sending_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
